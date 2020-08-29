@@ -1,0 +1,36 @@
+# calc-price-arbgivavgift.py pseudocode
+
+We need to create subproblems
+
+arbgivavgift
+    constant
+    print KRS
+
+input-price
+    Insert
+    store (in class mby)
+    return
+
+output-price
+
+
+tax
+
+-----
+
+
+input price
+    append.list
+add arbgivavgift
+    append.list
+add tax
+    append.list # append only the tax amount
+calculate total
+    calculate_total list
+print the list
+    make label-list with price,arbgivavgift,tax strings
+print label-list - amount # loops the list you made
+print total
+
+# later add sonja hours, add mine hours to a project, as class mby
+
