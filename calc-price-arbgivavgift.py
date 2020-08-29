@@ -27,3 +27,5 @@ def isRunning():
             usr_input = input('The program has ended, press ENTER to run again or "q" to quit')
             if usr_input.lower == 'q':
                 isRunning = False
+
+isRunning()
